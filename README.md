@@ -1,5 +1,8 @@
 # Agentic RAG with Couchbase and Vertex AI Agent Engine Workshop
 
+![Uploading image.png…]()
+
+
 Build production-ready AI agents using **Vertex AI Agent Engine** and **Couchbase Capella** for advanced Retrieval-Augmented Generation (RAG) applications.
 
  [![Open In Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shivay-couchbase/Workshop-Agentic-RAG-with-Couchbase-and-Vertex-AI-Agent-Engine/blob/main/agentic_rag_with_couchbase_and_vertex_ai_agent_engine.ipynb)

@@ -119,12 +119,16 @@ STAGING_BUCKET=gs://your-bucket-name
    gcloud services enable aiplatform.googleapis.com
    gcloud services enable storage.googleapis.com
    gcloud services enable cloudbuild.googleapis.com
+   
    ```
 
 2. Set up authentication:
 
    ```bash
+   gcloud auth login
    gcloud auth application-default login
+   gcloud auth application-default set-quota-project projectID
+   gcloud config set project projectID
    ```
 
 3. Create storage bucket:
